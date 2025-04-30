@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Costela de Adão",
+    "scientificName": "Monstera deliciosa",
+    "slug": "monstera-deliciosa",
+    "imageUrl": "/costela-de-adao.jpg?height=500&width=500",
+    "description": "A Costela de Adão, também conhecida como Monstera, é famosa por suas grandes folhas brilhantes e perfuradas. É uma planta de interior popular que pode crescer bastante, tornando-se uma peça impressionante em qualquer ambiente.",
+    "categories": [
+      "Interior",
+      "Tropical",
+      "Grande"
+    ],
+    "care": {
+      "light": "Luz indireta brilhante",
+      "water": "Deixe o solo secar entre as regas",
+      "temperature": "18-29°C",
+      "humidity": "Média a alta",
+      "soil": "Substrato bem drenado"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Espada de São Jorge",
+    "scientificName": "Sansevieria trifasciata",
+    "slug": "espada-de-sao-jorge",
+    "imageUrl": "/espada-de-sao-jorge.jpg?height=500&width=500",
+    "description": "A Espada de São Jorge é uma das plantas de interior mais resistentes que você pode encontrar. Com suas folhas rígidas e verticais e formato arquitetônico, é perfeita para designs de interiores modernos e conhecida por suas qualidades purificadoras de ar.",
+    "categories": [
+      "Interior",
+      "Suculentas",
+      "Baixa Manutenção"
+    ],
+    "care": {
+      "light": "Baixa a luz indireta brilhante",
+      "water": "Deixe o solo secar completamente entre as regas",
+      "temperature": "15-29°C",
+      "humidity": "Baixa a média",
+      "soil": "Substrato para cactos ou suculentas bem drenado"
+    }
+  },
+  {
+    "id": "5",
+    "name": "Jiboia",
+    "scientificName": "Epipremnum aureum",
+    "slug": "jiboia",
+    "imageUrl": "/jiboia.jpg?height=500&width=500",
+    "description": "A Jiboia, também conhecida como Pothos, é uma das plantas de interior mais fáceis de cultivar. Com suas folhas em formato de coração e vinhas pendentes, é perfeita para cestas suspensas ou para escalar um suporte de musgo.",
+    "categories": [
+      "Interior",
+      "Pendente",
+      "Baixa Manutenção"
+    ],
+    "care": {
+      "light": "Baixa a luz indireta brilhante",
+      "water": "Deixe o solo secar entre as regas",
+      "temperature": "18-29°C",
+      "humidity": "Média",
+      "soil": "Substrato bem drenado"
+    }
+  },
+  {
+    "id": "4",
+    "name": "Lírio da Paz",
+    "scientificName": "Spathiphyllum wallisii",
+    "slug": "lirio-da-paz",
+    "imageUrl": "/placeholder.svg?height=500&width=500",
+    "description": "O Lírio da Paz é uma planta de interior popular conhecida por suas elegantes flores brancas e folhas verdes brilhantes. É relativamente fácil de cuidar e excelente para filtrar poluentes do ar interno.",
+    "categories": [
+      "Interior",
+      "Floração",
+      "Purificadora de Ar"
+    ],
+    "care": {
+      "light": "Luz indireta baixa a média",
+      "water": "Mantenha o solo constantemente úmido",
+      "temperature": "18-27°C",
+      "humidity": "Média a alta",
+      "soil": "Substrato rico e solto"
+    }
+  }
+]
