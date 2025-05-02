@@ -1,82 +1,149 @@
 [
   {
     "id": "1",
-    "name": "Costela de Adão",
-    "scientificName": "Monstera deliciosa",
-    "slug": "monstera-deliciosa",
-    "imageUrl": "/costela-de-adao.jpg?height=500&width=500",
-    "description": "A Costela de Adão, também conhecida como Monstera, é famosa por suas grandes folhas brilhantes e perfuradas. É uma planta de interior popular que pode crescer bastante, tornando-se uma peça impressionante em qualquer ambiente.",
+    "name": "Abelia",
+    "scientificName": "Abelia",
+    "slug": "abelia",
+    "imageUrl": "/abelia.png?height=500&width=500",
+    "family": "Caprilofiaceae",
+    "origin": "Asia",
+    "size": "60-300 cm de altura, 60-240 cm de largura",
+    "toxicity": "Não é tóxico",
     "categories": [
-      "Interior",
-      "Tropical",
-      "Grande"
+      "Arbustos"
     ],
-    "care": {
-      "light": "Luz indireta brilhante",
-      "water": "Deixe o solo secar entre as regas",
-      "temperature": "18-29°C",
-      "humidity": "Média a alta",
-      "soil": "Substrato bem drenado"
-    }
+    "light": "Completo, Parcial",
+    "soilType": "Argiloso, úmido, mas bem drenado",
+    "soilPh": "Ácido, Neutro",
+    "description": "A Abelia é um arbusto muito apreciado entre as plantas ornamentais por sua folhagem vibrante e longa floração, que vai da primavera ao outono. Com cerca de 30 espécies, pode apresentar folhas verdes, amarelas ou variegadas com tons de rosa, bronze e bordô, que mudam de cor conforme as estações. Suas flores tubulares em tons de branco, rosa ou amarelo atraem olhares e são ideais para jardins decorativos.",
+    "lightDesc": "A Abelia, destacada entre as plantas ornamentais, desenvolve-se bem tanto em sol pleno quanto em meia-sombra. No entanto, o sol direto intensifica as cores da folhagem e promove uma floração mais vigorosa. Em regiões de calor intenso, oferecer sombra parcial à tarde ajuda a preservar sua vitalidade.",
+    "soilDesc": "Embora prefira solos férteis, úmidos e bem drenados, adapta-se bem a diferentes condições. Para um crescimento mais saudável, recomenda-se incorporar composto orgânico antes do plantio. Um pH levemente ácido favorece ainda mais o desenvolvimento dessa planta encantadora.",
+    "waterDesc": "É uma planta ornamental de baixa manutenção que tolera bem a seca após o enraizamento. Ainda assim, regas regulares são essenciais para manter sua beleza, principalmente nos meses mais quentes. O ideal é regar uma ou duas vezes por semana, esperando o solo começar a secar antes de molhar novamente. Regas profundas e espaçadas fortalecem a planta e garantem sua vitalidade ao longo da estação.",
+    "temperatureDesc": "A Abelia é uma planta ornamental altamente adaptável, capaz de prosperar em diversas regiões. A escolha da variedade certa é fundamental para garantir o melhor desempenho em cada clima, tornando a Abelia uma excelente opção para projetos paisagísticos em diferentes ambientes.",
+    "fertilizerDesc": "É importante garantir um solo bem nutrido. A adição anual de composto melhora a estrutura do solo e fornece nutrientes essenciais. Na primavera, um fertilizante de liberação lenta ajuda a estimular um crescimento forte e uma floração prolongada ao longo do ano.",
+    "propagatingDesc": "A propagação da Abelia, uma das plantas ornamentais mais populares, pode ser feita por estacas de madeira macia (primavera) ou madeira dura (outono). As estacas de madeira macia enraízam mais facilmente, enquanto as de madeira dura são mais resistentes. Ambas seguem o mesmo processo de cultivo. Para propagar, você vai precisar de tesouras afiadas, um pequeno vaso com solo rico e bem drenado, além de hormônio enraizador. Basta seguir os passos adequados para garantir o sucesso no enraizamento e multiplicar essa bela planta no jardim."
   },
   {
     "id": "2",
-    "name": "Espada de São Jorge",
-    "scientificName": "Sansevieria trifasciata",
-    "slug": "espada-de-sao-jorge",
-    "imageUrl": "/espada-de-sao-jorge.jpg?height=500&width=500",
-    "description": "A Espada de São Jorge é uma das plantas de interior mais resistentes que você pode encontrar. Com suas folhas rígidas e verticais e formato arquitetônico, é perfeita para designs de interiores modernos e conhecida por suas qualidades purificadoras de ar.",
+    "name": "Planta Mil Folhas",
+    "scientificName": "Achillea millefolium",
+    "slug": "planta-mil-folhas",
+    "imageUrl": "/planta-mil-folhas.png?height=500&width=500",
+    "family": "Asteraceae",
+    "origin": "Ásia, Europa, América do Norte",
+    "size": "60-90 cm de altura, 60-90 cm de largura",
+    "toxicity": "Tóxico para gatos, cães e cavalos",
     "categories": [
-      "Interior",
-      "Suculentas",
-      "Baixa Manutenção"
+      "Perenes"
     ],
-    "care": {
-      "light": "Baixa a luz indireta brilhante",
-      "water": "Deixe o solo secar completamente entre as regas",
-      "temperature": "15-29°C",
-      "humidity": "Baixa a média",
-      "soil": "Substrato para cactos ou suculentas bem drenado"
-    }
+    "light": "Sol Pleno",
+    "soilType": "Arenoso, argiloso, bem drenado",
+    "soilPh": "Neutro",
+    "description": "A mil-folhas é uma planta ornamental tolerante à seca que se desenvolve bem mesmo em solos pobres, sendo perfeita para projetos de xeriscaping e jardins em regiões áridas. Pode ser cultivada a partir de sementes ou mudas, e exige pouca manutenção após o estabelecimento. Basta garantir solo bem drenado e regas espaçadas durante períodos de seca, permitindo que o solo seque completamente entre uma irrigação e outra.",
+    "lightDesc": "Como planta ornamental, a mil-folhas se desenvolve melhor em locais com sol pleno, o que garante uma estrutura mais compacta e uma floração abundante. Embora tolere meia-sombra, a falta de luz pode fazer com que cresça de forma alongada e frágil, exigindo tutoramento para se manter ereta e saudável.",
+    "soilDesc": "É uma planta ornamental altamente adaptável, crescendo bem em solos arenosos, argilosos ou franco-arenosos. No entanto, prefere condições secas e bem drenadas.",
+    "waterDesc": "Após o estabelecimento, a mil-folhas se torna uma planta ornamental extremamente tolerante à seca. No início, pequenas regas frequentes ajudam na germinação e no crescimento das mudas. Depois disso, cerca de 1,25 cm de água por semana é suficiente. Em épocas de chuva, a irrigação deve ser suspensa — principalmente se a precipitação ultrapassar 2,5 cm semanais — para evitar excesso de umidade no solo.",
+    "temperatureDesc": "Como planta ornamental típica de regiões secas, a mil-folhas se desenvolve melhor em temperaturas amenas de verão, entre 18 °C e 24 °C. Embora tolere certo nível de calor, pode sofrer danos quando os termômetros passam dos 30 °C. Também não reage bem ao frio intenso ou correntes de ar gelado. Em relação à umidade, prefere ambientes secos e solos bem drenados, pois o excesso de água pode causar apodrecimento das raízes ou proliferação de fungos.",
+    "fertilizerDesc": "A mil-folhas é uma planta de baixa manutenção e pouco exigente em relação à adubação. Uma camada superficial de composto na primavera costuma ser suficiente para sustentar seu crescimento durante toda a estação. Muitos jardineiros optam por não fertilizar, já que solos ricos em nutrientes podem estimular uma propagação excessiva e indesejada.",
+    "propagatingDesc": "Em condições ideais, a mil-folhas pode se espalhar rapidamente pelo jardim, às vezes de forma agressiva. Para manter o controle dessa planta ornamental e promover um crescimento saudável, o ideal é dividi-la a cada dois ou três anos. A divisão também é uma ótima forma de propagação — você pode replantar em outras áreas do jardim ou compartilhar com amigos que queiram enriquecer seus canteiros de perenes."
   },
   {
-    "id": "5",
-    "name": "Jiboia",
-    "scientificName": "Epipremnum aureum",
-    "slug": "jiboia",
-    "imageUrl": "/jiboia.jpg?height=500&width=500",
-    "description": "A Jiboia, também conhecida como Pothos, é uma das plantas de interior mais fáceis de cultivar. Com suas folhas em formato de coração e vinhas pendentes, é perfeita para cestas suspensas ou para escalar um suporte de musgo.",
+    "id": "3",
+    "name": "Actaea",
+    "scientificName": "Actaea",
+    "slug": "actaea",
+    "imageUrl": "/actaea.png?height=500&width=500",
+    "family": "Ranunculaceae",
+    "origin": "América do Norte",
+    "size": "60-120 cm de altura (200 cm de altura com flores)",
+    "toxicity": "Tóxico para humanos e animais de estimação",
     "categories": [
-      "Interior",
-      "Pendente",
-      "Baixa Manutenção"
+      "Herbaceas",
+      "Perenes"
     ],
-    "care": {
-      "light": "Baixa a luz indireta brilhante",
-      "water": "Deixe o solo secar entre as regas",
-      "temperature": "18-29°C",
-      "humidity": "Média",
-      "soil": "Substrato bem drenado"
-    }
+    "light": "Parcial, Sombra",
+    "soilType": "Bem Drenado",
+    "soilPh": "Neutro",
+    "description": "A Actaea, também conhecida como erva-de-são-cristóvão, é uma planta ornamental perene da família Ranunculaceae, ideal para jardins sombreados. Suas folhas serrilhadas e flores estreitas e felpudas, que variam do branco ao lavanda, formam cachos semelhantes a uma garra de pincel. A planta produz pequenas frutas vermelhas, brancas ou roxas com um ponto central negro.",
+    "lightDesc": "Prefere locais com sombra parcial a total, onde pode se naturalizar facilmente. Quando cultivada em áreas ensolaradas, tende a permanecer menor. Os raios suaves do sol da manhã são ideais, fornecendo energia suficiente para uma floração abundante sem danificar a folhagem escura e delicada da planta ornamental.",
+    "soilDesc": "Se desenvolve melhor em solo rico e bem amendoados com folhas de mulch, esterco bem decomposto ou composto. Esses aditivos ajudam a manter a umidade e fornecer os nutrientes necessários para um crescimento vigoroso e uma floração exuberante.",
+    "waterDesc": "A Actaea não deve secar durante a temporada de crescimento. Embora não aprecie condições encharcadas, necessita de cerca de 2,5 cm de água por semana. Plantas estressadas pela seca murcham rapidamente, e aquelas cultivadas em condições secas tendem a retornar menores nas estações seguintes, comprometendo seu desempenho como planta ornamental.",
+    "temperatureDesc": "Prefere temperaturas moderadas, áreas de calor intenso podem retardar seu crescimento, e o calor do sol pode queimar a folhagem delicada. Para garantir uma floração saudável, mantenha a planta em locais mais frescos e sombreados. Em zonas de cultivo típicas, a Actaea não é exigente quanto à umidade, se adaptando bem a condições normais de jardinagem.",
+    "fertilizerDesc": "Se você enriquece o solo com matéria orgânica a cada temporada, não será necessário aplicar fertilizantes adicionais. A Actaea, como planta ornamental, se beneficia de um solo bem nutrido naturalmente, mantendo seu vigor e beleza com manutenção mínima.",
+    "propagatingDesc": "A Actaea pode ser propagada por sementes ou divisão. Para melhores resultados, faça a divisão no outono, separando touceiras maduras em duas ou três partes, o que facilita o rápido enraizamento das novas plantas ornamentais. Se estiver plantando raízes nuas, posicione a coroa a cerca de 2,5 cm abaixo da superfície do solo para reduzir o choque do transplante. Sempre que possível, opte por mudas em vaso, que são mais fáceis de estabelecer."
   },
   {
     "id": "4",
-    "name": "Lírio da Paz",
-    "scientificName": "Spathiphyllum wallisii",
-    "slug": "lirio-da-paz",
-    "imageUrl": "/placeholder.svg?height=500&width=500",
-    "description": "O Lírio da Paz é uma planta de interior popular conhecida por suas elegantes flores brancas e folhas verdes brilhantes. É relativamente fácil de cuidar e excelente para filtrar poluentes do ar interno.",
+    "name": "Yucca Filamentosa",
+    "scientificName": "Yucca filamentosa",
+    "slug": "yucca-filamentosa",
+    "imageUrl": "/yucca-filamentosa.png/?height=500&width=500",
+    "family": "Asparagaceae",
+    "origin": "América do Norte",
+    "size": "60-90 cm de altura, 90-120 cm de largura",
+    "toxicity": "Tóxico para animais de estimação",
     "categories": [
-      "Interior",
-      "Floração",
-      "Purificadora de Ar"
+      "Suculenta",
+      "Rizoma"
     ],
-    "care": {
-      "light": "Luz indireta baixa a média",
-      "water": "Mantenha o solo constantemente úmido",
-      "temperature": "18-27°C",
-      "humidity": "Média a alta",
-      "soil": "Substrato rico e solto"
-    }
+    "light": "Completo, Parcial",
+    "soilType": "Bem drenado, arenoso",
+    "soilPh": "Ácido, neutro, alcalino",
+    "description": "A Yucca filamentosa é uma suculenta extremamente fácil de cultivar ao ar livre, ideal para quem busca plantas ornamentais com pouca manutenção. Praticamente não requer cuidados, exceto pela remoção ocasional de folhas secas e das hastes florais após o florescimento. Perfeita para compor paisagens com um visual limpo e exótico, mesmo para quem não tem tempo ou experiência em jardinagem.",
+    "lightDesc": "Desenvolve-se melhor sob sol pleno, embora tolere um pouco de sombra. Em ambientes com pouca luz, a planta tende a se alongar em busca de sol, o que pode comprometer seu porte compacto e escultural.",
+    "soilDesc": "A Yucca filamentosa prospera em solos bem drenados e ligeiramente secos. Esta planta ornamental não exige solo fértil, sendo ideal para áreas com solo pobre, rochoso ou arenoso. Resistente à poluição e ao solo salino, é perfeita para plantios à beira de estradas. Também se destaca em jardins de pedras e em taludes, ajudando a controlar a erosão do solo com estilo e praticidade.",
+    "waterDesc": "É uma planta ornamental com excelente tolerância à seca após o estabelecimento, sendo amplamente usada em projetos de paisagismo xerófilo. No primeiro ano, requer regas leves semanais. Após a primeira estação de crescimento, geralmente não necessita de irrigação adicional. Em vasos, continue oferecendo pequenas quantidades de água semanalmente caso não haja chuva suficiente.",
+    "temperatureDesc": "Originária do sudeste dos EUA, a Yucca filamentosa é uma suculenta ornamental extremamente resistente, tolerando temperaturas de até -20 °C com proteção de cobertura morta, ela se adapta facilmente a diferentes variações climáticas. Embora prefira umidade moderada, também cresce bem em condições de baixa umidade, sendo uma excelente escolha entre as plantas ornamentais para jardins variados e resistentes.",
+    "fertilizerDesc": "Entre as plantas ornamentais, a Yucca filamentosa se destaca por sua baixa necessidade de adubação. Normalmente, cresce bem sem fertilizantes, mas caso apresente sinais de fraqueza, aplique um fertilizante granulado balanceado na primavera, conforme indicado no rótulo do produto. Uma segunda aplicação pode ser feita após três meses, se necessário. Evite o excesso de nutrientes, pois essa planta se desenvolve melhor em solos pobres.",
+    "propagatingDesc": "Pode ser propagada por sementes, estacas de caule, rizomas ou brotações basais. A primavera e o verão são as melhores épocas para a maioria dos métodos, enquanto a divisão é mais indicada no inverno. A poda, além de controlar o crescimento da planta, fornece estacas ideais para propagação. Seus rizomas subterrâneos também são eficazes para multiplicação."
+  },
+  {
+    "id": "5",
+    "name": "Lantana",
+    "scientificName": "Lantana camara",
+    "slug": "latana",
+    "imageUrl": "/latana.png/?height=500&width=500",
+    "family": "Verbenaceae",
+    "origin": "América Central, América do Sul",
+    "size": "183 cm de altura, 183 cm de largura",
+    "toxicity": "Tóxico para animais de estimação",
+    "categories": [
+      "Arbustos",
+      "Anuais"
+    ],
+    "light": "Sol Pleno",
+    "soilType": "Bem drenado",
+    "soilPh": "Neutro",
+    "description": "A lantana é uma planta ornamental de crescimento rápido, seus buquês arredondados de flores pequenas e coloridas — em tons de amarelo, laranja, branco, vermelho, rosa, azul ou roxo — trazem um toque vibrante ao paisagismo. Ideal para cestas suspensas e forração, é uma escolha versátil e chamativa para quem deseja destacar o jardim com flores duradouras.",
+    "lightDesc": "Como planta ornamental típica de clima quente, a lantana se desenvolve melhor em sol pleno, recebendo ao menos seis horas diárias de luz direta. Embora tolere sombra parcial à tarde, a floração será menos intensa se cultivada em áreas sombreadas. Para obter flores vibrantes e abundantes, plante sua lantana em um local bem ensolarado.",
+    "soilDesc": "Cresce bem em diversos tipos de solo, desde que tenha boa drenagem. Para um desenvolvimento saudável, o ideal é um solo com pH neutro, entre 6.0 e 8.0, o que favorece tanto a floração quanto a longevidade da planta.",
+    "waterDesc": "A lantana, uma popular entre as plantas ornamentais, deve ser regada de forma abundante, com cerca de 2,5 cm de água por semana. Em solos arenosos, pode ser necessário regar diariamente. Caso a floração diminua ou pare, aumentar a frequência da rega pode ajudar a estimular novas flores.",
+    "temperatureDesc": "Temperaturas abaixo de -2 ºC ou períodos prolongados de frio podem ser fatais. Essas plantas se desenvolvem melhor em climas com temperaturas acima de 13 ºC, gostam de umidade e toleram bem a maresia, sendo ideais para jardins litorâneos.",
+    "fertilizerDesc": "A lantana é uma planta ornamental de baixa manutenção que requer pouca adubação quando cultivada diretamente no solo. Uma única aplicação de fertilizante balanceado na primavera já é suficiente. Excesso de adubo pode reduzir a floração. Já as lantanas cultivadas em vasos devem ser alimentadas mensalmente com um fertilizante suave (como o 20-20-20), sempre seguindo as instruções do fabricante.",
+    "propagatingDesc": "Pode ser propagada por sementes ou estacas. No entanto, o método mais confiável é o corte de estacas, pois muitas variedades de lantana são híbridas e podem não produzir plantas idênticas aos pais quando cultivadas a partir de sementes. O corte de estaca, por outro lado, garante que a nova planta seja igual à original. Faça o corte no outono e, após o inverno, mantenha-o em ambiente interno com luzes de cultivo até a primavera, quando poderá ser transplantado ao ar livre."
+  },
+  {
+    "id": "6",
+    "name": "Planta Moreia",
+    "scientificName": "Dietes iridioides ",
+    "slug": "planta-moreira",
+    "imageUrl": "/planta-moreira.png/?height=500&width=500",
+    "family": "Iridaceae ",
+    "origin": "África do Sul",
+    "size": "61-122 cm de altura, 91-122 cm de largura",
+    "toxicity": "Tóxico para animais de estimação",
+    "categories": [
+      "Perenes"
+    ],
+    "light": "Completo, Parcial",
+    "soilType": "Argiloso úmido e bem drenado",
+    "soilPh": "Ácido",
+    "description": "A Planta Moreia (íris-africana) é uma planta ornamental perene e sempre-verde ideal para climas quentes, com uma longa temporada de florescimento que vai da primavera ao outono. Pode ser cultivada como perene nas zonas 8 a 11 do USDA e como anual em regiões mais frias. Esta planta resistente floresce melhor sob sol pleno, mas também tolera meia-sombra. Muito tolerante à seca, é perfeita para jardins de baixa manutenção e projetos paisagísticos sustentáveis.",
+    "lightDesc": "Embora floresça melhor sob sol pleno, ela também pode se desenvolver em meia-sombra. No entanto, a floração tende a ser menos intensa em locais com menos luz. O ideal é que a planta receba cerca de seis horas de sol por dia durante a temporada de florescimento. Para melhores resultados, posicione a íris-africana em um local que receba sol da tarde, pois essa luz costuma ser mais forte e favorece uma florada mais exuberante.",
+    "soilDesc": "A íris-africana aprecia solos ricos, bem drenados e de textura argilosa e arenosa (solo franco). Ao contrário de outras espécies de íris, que são mais tolerantes, esta variedade precisa de uma drenagem eficiente para manter os rizomas saudáveis. Se o solo do seu jardim for muito argiloso, adicione composto orgânico ou outros materiais corretivos para melhorar a drenagem antes de plantar — isso ajudará a garantir uma planta vigorosa e com boa durabilidade ornamental.",
+    "waterDesc": "Após bem estabelecida, a íris-africana torna-se extremamente tolerante à seca, exigindo pouca ou nenhuma irrigação especial. Contudo, em períodos de estiagem severa, uma rega ocasional pode ser necessária para preservar seu aspecto saudável e ornamental. Nos dois primeiros anos após o plantio — ou logo após o transplante — é importante manter uma irrigação regular para garantir o bom enraizamento e estimular um crescimento exuberante.",
+    "temperatureDesc": "Por ser originária de clima tropical, a íris-africana não tolera o frio intenso e não sobrevive como planta perene em regiões com invernos rigorosos. Sua resistência à seca é excelente, mas o excesso de umidade no verão — comum em áreas muito úmidas — pode comprometer sua aparência ornamental. Para manter a planta vistosa e saudável, recomenda-se fazer divisões frequentes, o que melhora a circulação de ar entre as touceiras e evita problemas causados pelo excesso de umidade.",
+    "fertilizerDesc": "A íris-africana responde bem à adubação durante o período de crescimento. Para manter sua folhagem vistosa e estimular uma florada prolongada, aplique um fertilizante balanceado de uso geral na primavera e no meio do verão. O ideal é espalhar o adubo a alguns centímetros de distância da base da planta, evitando o contato direto com as raízes para prevenir queimaduras. Esse cuidado simples contribui para uma planta mais bonita e saudável ao longo da estação.",
+    "propagatingDesc": "Assim como outras íris, a íris-africana cresce formando touceiras e se espalha por rizomas. Além disso, ela possui uma curiosa capacidade de propagação natural: suas cápsulas de sementes se curvam até o solo e podem enraizar, formando novas plantas. No entanto, a forma mais eficaz e controlada de multiplicá-la é através da divisão de plantas já estabelecidas. Essa técnica permite renovar o canteiro, manter a planta vigorosa e ainda criar novas mudas para outras áreas do jardim."
   }
 ]

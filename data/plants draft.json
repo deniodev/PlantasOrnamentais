@@ -1,0 +1,24 @@
+{
+  "id": "",
+  "name": "",
+  "scientificName": "",
+  "slug": "",
+  "imageUrl": "/?height=500&width=500",
+  "family": "",
+  "origin": "",
+  "size": "",
+  "toxicity": "",
+  "categories": [
+    ""
+  ],
+  "light": "",
+  "soilType": "",
+  "soilPh": "",
+  "description": "",
+  "lightDesc": "",
+  "soilDesc": "",
+  "waterDesc": "",
+  "temperatureDesc": "",
+  "fertilizerDesc": "",
+  "propagatingDesc": ""
+}

@@ -61,7 +61,7 @@ export default function Home() {
           </div>
           <div className="flex justify-center mt-8">
             <Button variant="outline" asChild>
-              <Link href="/plants">Ver Todas as Plantas</Link>
+              <Link href="/plantas">Ver Todas as Plantas</Link>
             </Button>
           </div>
         </div>
